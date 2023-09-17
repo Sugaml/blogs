@@ -1,9 +1,8 @@
 ## Blog Site
+*** Sugam's blog site ***
 
 
-
-
-# Run Project
+#### Run Project
  ```
     npm run dev
 
